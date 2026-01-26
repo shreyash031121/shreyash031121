@@ -32,7 +32,6 @@ I am passionate about transforming raw data into meaningful insights to support 
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/your-link
 
 - LinkedIn: www.linkedin.com/in/shreyashsinha03112021
 
