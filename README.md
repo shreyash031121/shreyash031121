@@ -34,7 +34,7 @@ I am passionate about transforming raw data into meaningful insights to support 
 ## 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/your-link
 
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/shreyashsinha03112021
 
 <!--
 **shreyash031121/shreyash031121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
