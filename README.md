@@ -1,19 +1,40 @@
+Hi, I'm Shreyash Sinha 👋  
+Aspiring Data Analyst with hands-on experience in data analysis, SQL querying, and dashboard development.  
+I am passionate about transforming raw data into meaningful insights to support data-driven business decisions.
 
-## Hi, I'm Shreyash 👋
+---
 
-🎯 Aspiring Data Analyst with hands-on experience in Excel dashboards and SQL analysis.
+## 🔍 About Me
+- Strong foundation in **SQL, Excel, and Power BI**
+- Experience working with **structured datasets**, KPIs, and business metrics
+- Interested in roles involving **data analysis, reporting, and visualization**
+- Continuously learning and building real-world analytics projects
 
-### 🔧 Skills
-- Excel (Pivot Tables, Dashboards, Slicers)
-- SQL (Joins, Subqueries, Window Functions)
-- Power BI (Basics)
+---
 
-### 📊 Featured Projects
-- ☕ Coffee Sales Analysis Dashboard (Excel)
-- 📈 Sales Analysis using SQL
+## 🛠 Technical Skills
+- **Excel:** Data Cleaning, Pivot Tables, Dashboards, Slicers  
+- **SQL:** Joins, Subqueries, Window Functions, Aggregations  
+- **Power BI:** Data Modeling, Basic DAX, Interactive Dashboards  
+- **Databases:** MySQL  
 
-### 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/your-link
+---
+
+## 📊 Featured Projects
+- **Coffee Sales Analysis Dashboard (Excel)**  
+  Created an interactive Excel dashboard to analyze product-wise, time-based, and sales performance trends.
+
+- **Sales & Transaction Analysis (SQL)**  
+  Performed SQL-based analysis to extract KPIs, identify patterns, and generate business insights from transactional data.
+
+> More data analytics projects available in the repositories below.
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/your-link
+
+- LinkedIn: 
 
 <!--
 **shreyash031121/shreyash031121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
