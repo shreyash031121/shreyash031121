@@ -1,4 +1,4 @@
-Hi, I'm Shreyash Sinha 👋  
+## Hi, I'm Shreyash Sinha 👋  
 Aspiring Data Analyst with hands-on experience in data analysis, SQL querying, and dashboard development.  
 I am passionate about transforming raw data into meaningful insights to support data-driven business decisions.
 
