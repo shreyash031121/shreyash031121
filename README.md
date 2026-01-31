@@ -22,7 +22,7 @@ I am passionate about transforming raw data into meaningful insights to support 
 
 ## 📊 Featured Projects  
 
-### HR Attrition Analytics Dashboard (Power BI)  
+### 📈HR Attrition Analytics Dashboard (Power BI)  
 Developed an interactive HR analytics dashboard to analyze employee attrition and workforce trends.  
 - Analyzed **1,400+ employee records** to identify key drivers of attrition  
 - Built KPIs for attrition rate, salary, tenure, age group, and job role  
@@ -31,7 +31,7 @@ Developed an interactive HR analytics dashboard to analyze employee attrition an
 
 ---
 
-### Coffee Sales Analysis Dashboard (Excel)  
+### 🗄️Coffee Sales Analysis Dashboard (Excel)  
 Created an interactive Excel dashboard to analyze product-wise, time-based, and sales performance trends.  
 - Cleaned and validated sales data for accurate reporting  
 - Used Pivot Tables, slicers, and KPIs for dynamic analysis  
@@ -39,7 +39,7 @@ Created an interactive Excel dashboard to analyze product-wise, time-based, and 
 
 ---
 
-### Sales & Transaction Analysis (SQL)  
+### 📊Sales & Transaction Analysis (SQL)  
 Performed SQL-based analysis to extract KPIs, identify patterns, and generate business insights from transactional data.  
 - Used joins, subqueries, and aggregations to analyze transactional datasets  
 - Identified sales trends and category-level performance  
