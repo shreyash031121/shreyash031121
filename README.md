@@ -35,7 +35,7 @@ Developed an interactive HR analytics dashboard to analyze employee attrition an
 Created an interactive Excel dashboard to analyze product-wise, time-based, and sales performance trends.  
 - Cleaned and validated sales data for accurate reporting  
 - Used Pivot Tables, slicers, and KPIs for dynamic analysis  
-- Identified high-performing products and peak sales periods  
+- Identified high-performing products and peak sales period
 
 ---
 
