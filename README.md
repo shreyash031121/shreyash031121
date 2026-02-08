@@ -22,6 +22,17 @@ I am passionate about transforming raw data into meaningful insights to support 
 
 ## 📊 Featured Projects  
 
+### 📊 Customer Shopping Behavior Analysis (Python · SQL · Power BI)
+Built an end-to-end customer analytics project to analyze shopping behavior using a complete ETL pipeline.
+
+- Performed data loading, EDA, and data cleaning in Python  
+- Transferred cleaned data from Python to a SQL database (MySQL/PostgreSQL)  
+- Designed relational tables and wrote SQL queries to answer business questions  
+- Built an interactive Power BI dashboard connected directly to the SQL database  
+- Analyzed customer segments, purchase behavior, ratings, discounts, and revenue trends  
+- Delivered insights through a detailed report and presentation  
+
+
 ### 📈HR Attrition Analytics Dashboard (Power BI)  
 Developed an interactive HR analytics dashboard to analyze employee attrition and workforce trends.  
 - Analyzed **1,400+ employee records** to identify key drivers of attrition  
