@@ -40,11 +40,45 @@ I work on end-to-end analytics projects involving data cleaning, KPI analysis, S
 
 ## 📂 Featured Projects
 
-### 📊 Customer Shopping Behavior Analysis
-- Cleaned and analyzed transactional retail dataset
-- Performed SQL joins and aggregations
-- Identified seasonal sales patterns & high-performing categories
-- Built interactive Power BI dashboard
+
+### 📊 Customer Shopping Behavior Analysis (Python · SQL · Power BI)
+Built an end-to-end customer analytics project to analyze shopping behavior using a complete ETL pipeline.
+
+- Performed data loading, EDA, and data cleaning in Python  
+- Transferred cleaned data from Python to a SQL database (MySQL/PostgreSQL)  
+- Designed relational tables and wrote SQL queries to answer business questions  
+- Built an interactive Power BI dashboard connected directly to the SQL database  
+- Analyzed customer segments, purchase behavior, ratings, discounts, and revenue trends  
+- Delivered insights through a detailed report and presentation  
+
+---
+
+### 📈HR Attrition Analytics Dashboard (Power BI)  
+Developed an interactive HR analytics dashboard to analyze employee attrition and workforce trends.  
+- Analyzed *1,400+ employee records* to identify key drivers of attrition  
+- Built KPIs for attrition rate, salary, tenure, age group, and job role  
+- Identified higher attrition among *low salary bands* and *early-tenure employees*  
+- Delivered actionable insights to support HR retention strategies  
+
+---
+
+### 🗄️Coffee Sales Analysis Dashboard (Excel)  
+Created an interactive Excel dashboard to analyze product-wise, time-based, and sales performance trends.  
+- Cleaned and validated sales data for accurate reporting  
+- Used Pivot Tables, slicers, and KPIs for dynamic analysis  
+- Identified high-performing products and peak sales period
+
+---
+
+### 📊Sales & Transaction Analysis (SQL)  
+Performed SQL-based analysis to extract KPIs, identify patterns, and generate business insights from transactional data.  
+- Used joins, subqueries, and aggregations to analyze transactional datasets  
+- Identified sales trends and category-level performance  
+- Generated insights to support data-driven decision-making  
+
+
+> More data analytics projects available in the repositories below.
+
 
 ---
 
