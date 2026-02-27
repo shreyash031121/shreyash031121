@@ -1,306 +1,92 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Shreyash Sinha | Data Analyst</title>
+<h1 align="center">Hi 👋, I'm Shreyash Sinha</h1>
+<h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI</h3>
 
-<style>
-body{
-margin:0;
-font-family:Segoe UI, sans-serif;
-background:#0f172a;
-color:#e2e8f0;
-}
+---
 
-header{
-background:#111827;
-padding:60px 10%;
-text-align:center;
-}
+🚀 **Live Portfolio Website:**  
+👉 https://shreyashsinhaportfolio.netlify.app/
+## 🚀 About Me
 
-h1{
-margin:0;
-font-size:42px;
-color:#38bdf8;
-}
+---
 
-.subtitle{
-color:#94a3b8;
-margin-top:8px;
-}
+I’m an aspiring Data Analyst focused on transforming raw data into actionable business insights.  
+I work on end-to-end analytics projects involving data cleaning, KPI analysis, SQL querying, and interactive dashboard development.
 
-.btn{
-display:inline-block;
-padding:8px 18px;
-margin:10px 5px;
-background:#38bdf8;
-color:#0f172a;
-text-decoration:none;
-border-radius:6px;
-font-weight:bold;
-}
+- 🔍 Strong in SQL problem-solving  
+- 📊 Skilled in Excel & Power BI dashboards  
+- 🐍 Comfortable with Python (Pandas, NumPy, Matplotlib, Plotly)  
+- 📈 Continuously improving advanced SQL & data modeling  
 
-.section{
-padding:60px 10%;
-}
+---
 
-.section h2{
-border-left:5px solid #38bdf8;
-padding-left:10px;
-margin-bottom:30px;
-}
+## 🛠 Tech Stack
 
-/* KPI */
-.kpi-grid{
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
-gap:20px;
-margin-bottom:40px;
-}
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-.kpi{
-background:#1e293b;
-padding:25px;
-border-radius:12px;
-text-align:center;
-}
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-.kpi h3{
-margin:0;
-font-size:30px;
-color:#38bdf8;
-}
+### 📊 Data Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 
-/* Skills */
-.skills span{
-display:inline-block;
-background:#1e293b;
-padding:10px 14px;
-margin:6px;
-border-radius:20px;
-}
+### 📈 BI & Tools
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-/* Cards */
-.grid{
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
-gap:25px;
-}
+---
 
-.card{
-background:#1e293b;
-padding:25px;
-border-radius:12px;
-}
+## 📂 Featured Projects
 
-.card h3{
-margin-top:0;
-color:#38bdf8;
-}
 
-.card a{
-color:#38bdf8;
-text-decoration:none;
-}
+### 📊 Customer Shopping Behavior Analysis (Python · SQL · Power BI)
+Built an end-to-end customer analytics project to analyze shopping behavior using a complete ETL pipeline.
 
-.card img{
-width:100%;
-border-radius:8px;
-margin-bottom:10px;
-}
+- Performed data loading, EDA, and data cleaning in Python  
+- Transferred cleaned data from Python to a SQL database (MySQL/PostgreSQL)  
+- Designed relational tables and wrote SQL queries to answer business questions  
+- Built an interactive Power BI dashboard connected directly to the SQL database  
+- Analyzed customer segments, purchase behavior, ratings, discounts, and revenue trends  
+- Delivered insights through a detailed report and presentation  
 
-.about-box{
-background:#1e293b;
-padding:30px;
-border-radius:12px;
-line-height:1.7;
-}
+---
 
-.contact-card{
-background:#1e293b;
-padding:25px;
-border-radius:12px;
-}
+### 📈HR Attrition Analytics Dashboard (Power BI)  
+Developed an interactive HR analytics dashboard to analyze employee attrition and workforce trends.  
+- Analyzed *1,400+ employee records* to identify key drivers of attrition  
+- Built KPIs for attrition rate, salary, tenure, age group, and job role  
+- Identified higher attrition among *low salary bands* and *early-tenure employees*  
+- Delivered actionable insights to support HR retention strategies  
 
-.contact-card a{
-color:#38bdf8;
-text-decoration:none;
-word-break:break-all;
-}
+---
 
-footer{
-text-align:center;
-padding:20px;
-background:#111827;
-color:#94a3b8;
-}
-</style>
-</head>
+### 🗄️Coffee Sales Analysis Dashboard (Excel)  
+Created an interactive Excel dashboard to analyze product-wise, time-based, and sales performance trends.  
+- Cleaned and validated sales data for accurate reporting  
+- Used Pivot Tables, slicers, and KPIs for dynamic analysis  
+- Identified high-performing products and peak sales period
 
-<body>
+---
 
-<header>
-<h1>Shreyash Sinha</h1>
-<p class="subtitle">📊 Data Analyst | SQL • Excel • Power BI • Python</p>
+### 📊Sales & Transaction Analysis (SQL)  
+Performed SQL-based analysis to extract KPIs, identify patterns, and generate business insights from transactional data.  
+- Used joins, subqueries, and aggregations to analyze transactional datasets  
+- Identified sales trends and category-level performance  
+- Generated insights to support data-driven decision-making  
 
-<a class="btn" href="resume.pdf" download>📄 Download Resume</a>
-<a class="btn" href="https://github.com/shreyash031121" target="_blank">💻 GitHub</a>
-<a class="btn" href="https://www.linkedin.com/in/shreyashsinha03112021" target="_blank">🔗 LinkedIn</a>
-</header>
 
-<div class="section">
-<h2>📌 Professional Snapshot</h2>
+> More data analytics projects available in the repositories below.
 
-<div class="kpi-grid">
-<div class="kpi">
-<h3>4+</h3>
-<p>📊 Analytics Projects</p>
-</div>
 
-<div class="kpi">
-<h3>26</h3>
-<p>💻 GitHub Repositories</p>
-</div>
+---
 
-<div class="kpi">
-<h3>4</h3>
-<p>🛠 Core Tools</p>
-</div>
+## 📫 Connect With Me
 
-<div class="kpi">
-<h3>3+</h3>
-<p>📈 Dashboards Built</p>
-</div>
-</div>
-
-<h2>🧠 Core Skills</h2>
-<div class="skills">
-<span>SQL (Joins, Aggregations, Subqueries)</span>
-<span>Excel (Dashboards, Pivot Tables)</span>
-<span>Power BI (DAX, Data Modeling)</span>
-<span>Python (Pandas, EDA)</span>
-<span>ETL & Data Cleaning</span>
-<span>KPI Reporting</span>
-</div>
-</div>
-
-<div class="section">
-<h2>🖥 Dashboard Previews</h2>
-<div class="grid">
-
-<div class="card">
-<img src="customer_dashboard.png">
-<p>Customer Shopping Behavior Dashboard</p>
-</div>
-
-<div class="card">
-<img src="coffee_dashboard.png">
-<p>Coffee Sales Dashboard</p>
-</div>
-
-<div class="card">
-<img src="hr_dashboard.png">
-<p>HR Attrition Dashboard</p>
-</div>
-
-</div>
-</div>
-
-<div class="section">
-<h2>🚀 Projects</h2>
-
-<div class="grid">
-
-<div class="card">
-<h3>Customer Shopping Behavior Analysis</h3>
-<p><strong>Tech:</strong> Python • SQL • Power BI</p>
-<p>
-• Processed 50K+ transaction records<br>
-• Built ETL pipeline for transformation<br>
-• Designed KPI dashboard identifying customer segments
-</p>
-<a href="https://github.com/shreyash031121/Customer_Shopping_Behavior_Analysis" target="_blank">View Project →</a>
-</div>
-
-<div class="card">
-<h3>Bank SQL Analytics Project</h3>
-<p><strong>Tech:</strong> Advanced SQL</p>
-<p>
-• Complex joins & aggregations<br>
-• Customer segmentation analysis<br>
-• KPI-based transaction reporting
-</p>
-<a href="https://github.com/shreyash031121/Bank-SQL-Analytics-Project" target="_blank">View Project →</a>
-</div>
-
-<div class="card">
-<h3>Coffee Sales Analysis</h3>
-<p><strong>Tech:</strong> Excel</p>
-<p>
-• Built interactive revenue dashboard<br>
-• Pivot-based analysis<br>
-• Product performance tracking
-</p>
-<a href="https://github.com/shreyash031121/Coffee-Sales-Analysis-Project" target="_blank">View Project →</a>
-</div>
-
-<div class="card">
-<h3>HR Analytics Project</h3>
-<p><strong>Tech:</strong> Power BI</p>
-<p>
-• Attrition trend analysis<br>
-• Workforce KPI visualization<br>
-• Interactive HR dashboard
-</p>
-<a href="https://github.com/shreyash031121/HR-Analytics-Project" target="_blank">View Project →</a>
-</div>
-
-</div>
-</div>
-
-<div class="section">
-<h2>👨‍💻 About Me</h2>
-<div class="about-box">
-I am a data analyst with strong expertise in SQL, Excel, Power BI, and Python.
-I transform raw datasets into actionable insights that support business decisions.
-My work focuses on ETL pipelines, KPI dashboards, and structured data analysis.
-</div>
-</div>
-
-<div class="section">
-<h2>📬 Get in Touch</h2>
-
-<div class="grid">
-<div class="contact-card">
-<h3>📧 Email</h3>
-<p><a href="mailto:shreyashsinha753@gmail.com">shreyashsinha753@gmail.com</a></p>
-</div>
-
-<div class="contact-card">
-<h3>📱 Phone</h3>
-<p><a href="tel:+919628515622">+91 9628515622</a></p>
-</div>
-
-<div class="contact-card">
-<h3>🔗 LinkedIn</h3>
-<p><a href="https://www.linkedin.com/in/shreyashsinha03112021" target="_blank">
-linkedin.com/in/shreyashsinha03112021
-</a></p>
-</div>
-
-<div class="contact-card">
-<h3>💻 GitHub</h3>
-<p><a href="https://github.com/shreyash031121" target="_blank">
-github.com/shreyash031121
-</a></p>
-</div>
-</div>
-
-</div>
-
-<footer>
-© 2026 Shreyash Sinha | Data Analytics Portfolio
-</footer>
-
-</body>
-</html>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyashsinha03112021/)
+📧 shreyashsinha753@gmail.com
